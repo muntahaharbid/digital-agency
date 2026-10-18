@@ -24,7 +24,7 @@ Nova Digital is a responsive digital agency website built using HTML5, CSS3, Jav
 
 ## Project Structure
 
-```text
+
 digital-agency/
 ├── index.html
 ├── README.md
@@ -32,7 +32,7 @@ digital-agency/
 │   └── styles.css
 └── js/
     └── script.js
-```
+
 
 ## How to Run
 
@@ -58,4 +58,4 @@ The portfolio cards are illustrative design concepts created for demonstration p
 
 ## Author
 
-Muntaha Abuharbid - ID:220192912
+Muntaha Abuharbid 
