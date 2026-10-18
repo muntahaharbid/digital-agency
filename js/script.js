@@ -124,7 +124,6 @@ if (contactForm && formSuccess) {
     });
   });
 }
-console.log("Nova Digital JavaScript is working!");
 
 
 const yearElement = document.getElementById("currentYear");
